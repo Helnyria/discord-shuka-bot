@@ -22,7 +22,6 @@ E-posta : fr3my@proton.me
 
 [![license](https://img.shields.io/github/license/Helnyria/discord-shuka-bot?style=flat-square)](https://github.com/Helnyria/discord-shuka-bot/blob/master/LICENSE) 
 [![<3 ile yapıldı](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://bit.ly/2yr0Mkl) 
-[![Versiyon](https://img.shields.io/github/package-json/v/Helnyria/discord-shuka-bot?color=ff7700&logo=Shuka&style=for-the-badge)](https://github.com/Helnyria/discord-shuka-bot/blob/master/package.json)
 [![owner](https://top.gg/api/widget/owner/669179772575940629.png?leftcolor=ff7700&rightcolor=af1111&righttextcolor=fff800&lefttextcolor=0600ff)
 [![vote](https://top.gg/api/widget/upvotes/669179772575940629.png?leftcolor=ff7700&rightcolor=af1111&righttextcolor=9e82c3&lefttextcolor=d30872)
 [![servers](https://top.gg/api/widget/servers/669179772575940629.png?leftcolor=ff7700&rightcolor=af1111&righttextcolor=4d0c43&lefttextcolor=afea22)
